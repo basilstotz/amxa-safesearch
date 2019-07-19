@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Fri, 19 Jul 2019 12:45:42 +0200
+Source: amxa-safesearch
+Binary: amxa-safesearch
+Architecture: source all
+Version: 1.0-4
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz.basil@builder4>
+Description:
+ amxa-safesearch - <insert up to 60 chars description>
+Changes:
+ amxa-safesearch (1.0-4) UNRELEASED; urgency=medium
+ .
+   * Non-maintainer upload.
+   * moved form amxa-desktop-extra; initial
+   * add install
+   * cleanup
+   * fix syntax error
+Checksums-Sha1:
+ 2274ec8b0536d5e6c4803e01306da81a3cb78247 587 amxa-safesearch_1.0-4.dsc
+ e322d85d835ae6d489d91d53f2311d5ee47ed4eb 3071 amxa-safesearch_1.0-4.tar.gz
+ 55ef1e318b20d09f99a6c6445c8ca59afc0f1331 3064 amxa-safesearch_1.0-4_all.deb
+ a27aa40d4d7522a9e4fb610e65d27539cf1bd899 5194 amxa-safesearch_1.0-4_amd64.buildinfo
+Checksums-Sha256:
+ 0165a6cd2263c2b637100f1b3dbe389c7cf1d7c2c32d2676fbbc11bbd909a857 587 amxa-safesearch_1.0-4.dsc
+ 62fd75e117c4ffce1bbffa10d2a19631de1d7d16f2ddf6fd991ccfcf2302f19f 3071 amxa-safesearch_1.0-4.tar.gz
+ f746cdb61d815f4cb47dc83ce019cbe269c2095384f24e81cd3374062d929513 3064 amxa-safesearch_1.0-4_all.deb
+ 411da5beb5a40349049fd172f5e5e9202463af36cd80e16ce97f676b08e88d83 5194 amxa-safesearch_1.0-4_amd64.buildinfo
+Files:
+ c1b9e3fc04a816daac5e23bacb0ba65d 587 education optional amxa-safesearch_1.0-4.dsc
+ 260026271093640fcaee29f5460c517e 3071 education optional amxa-safesearch_1.0-4.tar.gz
+ 54120eaa83e38d3e305f8ad5120c4a40 3064 education optional amxa-safesearch_1.0-4_all.deb
+ 0ba5c627e48983b60c8e3f763fa0f0f0 5194 education optional amxa-safesearch_1.0-4_amd64.buildinfo

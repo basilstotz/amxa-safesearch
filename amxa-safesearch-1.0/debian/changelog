@@ -1,0 +1,15 @@
+amxa-safesearch (1.0-4) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * moved form amxa-desktop-extra; initial
+  * add install
+  * cleanup
+  * fix syntax error
+
+ -- Basil Stotz <stotz.basil@builder4>  Fri, 19 Jul 2019 12:45:42 +0200
+
+amxa-safesearch (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Sun, 19 May 2019 13:13:29 +0200
