@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Sat, 07 Nov 2020 09:56:57 +0100
+Source: amxa-safesearch
+Binary: amxa-safesearch
+Architecture: source all
+Version: 1.0-4.1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz.basil@stretch-E9O7rSOu>
+Description:
+ amxa-safesearch - <insert up to 60 chars description>
+Changes:
+ amxa-safesearch (1.0-4.1) UNRELEASED; urgency=medium
+ .
+   * Non-maintainer upload.
+   * moved form amxa-desktop-extra; initial
+   * add install
+   * cleanup
+   * fix syntax error
+   * removed restrictmoderate.youtube.com
+Checksums-Sha1:
+ 036a5bf1fa077168991cf921781376689013bb35 595 amxa-safesearch_1.0-4.1.dsc
+ a43b6a7918307efd809a54b0652c0b6bf768de5f 3111 amxa-safesearch_1.0-4.1.tar.gz
+ f6532cba6d75cf61e0ce89a02a513eee229db7d3 3110 amxa-safesearch_1.0-4.1_all.deb
+ 96bcf1974558b52e6147e3a8336a6ba69053277f 5402 amxa-safesearch_1.0-4.1_amd64.buildinfo
+Checksums-Sha256:
+ e7a23c5353a801282d7ed7b56e55ec83954ad43d619c2508e2a366e8c5f02dae 595 amxa-safesearch_1.0-4.1.dsc
+ 9610c260e304b1c19e13b54f15fef1a5ec95ec64b22d03277ef17269b3078538 3111 amxa-safesearch_1.0-4.1.tar.gz
+ a5d7d1ea156c2c58db2265530ca3c19ea897ecaacb2e65ab64f4dfb7420934ee 3110 amxa-safesearch_1.0-4.1_all.deb
+ 38adec8d5fe74938c473641dc7e2dffa1d898f62f184167883394d99e2c315c3 5402 amxa-safesearch_1.0-4.1_amd64.buildinfo
+Files:
+ 35aaa3d0e548cf9ed75d38467b04ce4b 595 education optional amxa-safesearch_1.0-4.1.dsc
+ 7d4e2681d4eec26795126926db60d786 3111 education optional amxa-safesearch_1.0-4.1.tar.gz
+ 2573aaeede579f40198f76bc2138e34d 3110 education optional amxa-safesearch_1.0-4.1_all.deb
+ ed0efbdf783e0ce30071884c7ad1d270 5402 education optional amxa-safesearch_1.0-4.1_amd64.buildinfo

@@ -1,12 +1,13 @@
-amxa-safesearch (1.0-4) UNRELEASED; urgency=medium
+amxa-safesearch (1.0-4.1) UNRELEASED; urgency=medium
 
   * Non-maintainer upload.
   * moved form amxa-desktop-extra; initial
   * add install
   * cleanup
   * fix syntax error
+  * removed restrictmoderate.youtube.com
 
- -- Basil Stotz <stotz.basil@builder4>  Fri, 19 Jul 2019 12:45:42 +0200
+ -- Basil Stotz <stotz.basil@stretch-E9O7rSOu>  Sat, 07 Nov 2020 09:56:57 +0100
 
 amxa-safesearch (1.0-1) unstable; urgency=medium
 

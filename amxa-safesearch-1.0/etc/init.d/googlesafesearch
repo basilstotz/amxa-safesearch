@@ -64,11 +64,11 @@ do_start()
 216.239.38.120 www.google.com.vn www.google.vu www.google.ws www.google.rs www.google.co.za
 216.239.38.120 www.google.co.zm www.google.co.zw www.google.cat
 # force youtube strikt
-216.239.38.119 www.youtube.com
-216.239.38.119 m.youtube.com
-216.239.38.119 youtubei.googleapis.com
-216.239.38.119 youtube.googleapis.com
-216.239.38.119 www.youtube-nocookie.com
+#78.41.204.29 www.youtube.com
+#78.41.204.29 m.youtube.com
+#78.41.204.29 youtubei.googleapis.com
+#78.41.204.29 youtube.googleapis.com
+#78.41.204.29 www.youtube-nocookie.com
 # force bing strikt
 204.79.197.220 www.bing.com bing.com
 # force safesearch duckduckgo

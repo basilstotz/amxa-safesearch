@@ -2,7 +2,7 @@ Format: 1.0
 Source: amxa-safesearch
 Binary: amxa-safesearch
 Architecture: all
-Version: 1.0-4
+Version: 1.0-4.1
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Homepage: <insert the upstream URL, if relevant>
 Standards-Version: 3.9.8
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9)
 Package-List:
  amxa-safesearch deb education optional arch=all
 Checksums-Sha1:
- e322d85d835ae6d489d91d53f2311d5ee47ed4eb 3071 amxa-safesearch_1.0-4.tar.gz
+ a43b6a7918307efd809a54b0652c0b6bf768de5f 3111 amxa-safesearch_1.0-4.1.tar.gz
 Checksums-Sha256:
- 62fd75e117c4ffce1bbffa10d2a19631de1d7d16f2ddf6fd991ccfcf2302f19f 3071 amxa-safesearch_1.0-4.tar.gz
+ 9610c260e304b1c19e13b54f15fef1a5ec95ec64b22d03277ef17269b3078538 3111 amxa-safesearch_1.0-4.1.tar.gz
 Files:
- 260026271093640fcaee29f5460c517e 3071 amxa-safesearch_1.0-4.tar.gz
+ 7d4e2681d4eec26795126926db60d786 3111 amxa-safesearch_1.0-4.1.tar.gz
